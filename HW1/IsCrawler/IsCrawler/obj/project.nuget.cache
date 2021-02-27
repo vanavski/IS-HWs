@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWjBJ5x1avgOZ7ogu2By2pB6hL/h7IXO/5Gw14R4xVaJ+hjY02hm918KOZcPULXSgsYpc9C80Fummiq3wKq3xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vadim\\1DOTNET\\1st_task\\IsCrawler\\IsCrawler\\IsCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vadim\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512"
+  ],
+  "logs": []
+}

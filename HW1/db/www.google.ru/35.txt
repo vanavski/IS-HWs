@@ -1,0 +1,1403 @@
+Accessibility for People with Disabilities - Google Chromebooks
+      
+    
+    
+    
+    
+      
+      
+    
+
+      
+      
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+
+
+    
+
+    
+    
+
+
+    
+    
+    
+
+  
+  
+    
+    
+    
+
+  
+    
+      
+      Google uses cookies to deliver its services, to personalize ads, and to analyze traffic. You can adjust your privacy controls anytime in your  Google settings.
+    
+      
+
+
+
+    Learn more.
+
+      
+        Ok, Got it.
+      
+    
+    
+  
+
+
+
+    
+  
+  
+      
+    
+  
+    
+                    What are Chromebooks
+      
+    
+                  
+
+                      Meet Chrome OS
+                      Chrome OS is the operating system that powers every Chromebook.
+                    
+                  
+                  
+
+                      Do more with apps
+                      Chromebooks have access to a vast library of Google-approved apps.
+                    
+                  
+                  
+
+                      How to Chromebook
+                      Discover fun and helpful videos to make the most of your Chromebook.
+                    
+                  
+                  
+
+                      What's New?
+                      Check out the latest Chromebook updates and features.
+                    
+                  
+                  
+
+                      Accessibility
+                      Inclusive design and features make Chromebooks accessible to people with disabilities.
+                    
+                  
+            
+        
+                    Switch
+      
+    
+                  
+
+                      Q&A
+                      Get answers to all your questions about Chromebook.
+                    
+                  
+                  
+
+                      Make the switch
+                      A step-by-step guide to switch from your Mac or Windows computer.
+                    
+                  
+            
+        
+                    Find yours
+      
+    
+                  
+
+                      Shop
+                      Chromebooks come in all shapes and sizes. Find the perfect fit.
+                    
+                  
+                  
+
+                      Perks
+                      Get special perks and discounts for your Chromebook.
+                    
+                  
+                  
+
+                      Works With Chromebook
+                      Find the right accessory for your Chromebook.
+                    
+                  
+            
+        
+        For Business
+        
+    
+    
+
+
+
+    Shop
+    
+
+  
+
+    
+      
+
+
+  
+      
+        Home
+      
+      
+        What are Chromebooks
+      
+      
+        Accessibility
+      
+  
+
+
+
+
+
+
+
+
+
+
+    Making Chromebooks accessible for people with disabilities
+
+
+      
+        Chromebooks come with helpful accessibility features created using inclusive design principles and based on user feedback, to empower people with disabilities to learn, play and connect.
+      
+
+
+
+
+
+
+        
+
+
+
+
+      
+    
+    
+      Display and visuals
+      
+      
+    
+    
+
+
+
+
+
+      
+    
+    
+      Audio and captions
+      
+      
+    
+    
+
+
+
+
+
+      
+    
+    
+      Spoken feedback
+      
+      
+    
+    
+
+
+
+
+
+      
+    
+    
+      Motor
+      
+      
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+        
+      
+    
+
+          Display and visuals
+
+
+
+      Built to enhance visual clarity
+      People who are blind or low-vision can take full advantage of Chromebooks thanks to the following features.
+    
+
+    
+        
+
+      
+        
+                
+        
+        
+        
+      
+
+
+        
+
+      
+
+
+
+    
+
+
+
+
+  
+    
+
+
+    
+  
+
+
+
+
+
+
+
+
+    Browser zoom
+
+
+      
+        Browser zoom allows visually impaired people to magnify just their browser window while everything else like the tabs and icons stay the same size.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Display size
+
+
+      
+        People can choose to enlarge all on-screen text and visuals, and easily revert back if necessary.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Full screen magnifier
+
+
+      
+        Zoom in on Chromebook to get a closer look at text and images.  Full screen magnification on Chromebook makes on-screen content easier to see by making the screen up to 20 times the default size.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Docked magnifier
+
+
+      
+        Some people  may not want to alter their entire viewing experience. The docked magnifier allows people with visual impairments to magnify just the top third of their screen, while the rest of the screen is resized to fit in the bottom section.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Font size
+
+
+      
+        Chromebook lets those who are visually impaired adjust font sizing to make reading easier while leaving other aspects of the display at their default size.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Large mouse cursor
+
+
+      
+        A larger cursor can make a big difference. Chromebooks enable people to enlarge just the mouse cursor so it’s easier to see.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+    Learn how to use screen magnification on Chromebook      
+      
+    
+
+    
+
+
+
+
+
+    
+
+
+
+  
+
+
+
+
+
+    Invert colors with a quick keyboard shortcut
+
+
+      
+        High contrast mode inverts colors to make on-screen content easier to read for people with low vision or for those working in bright environments. It can also reduce the effects of screen glare to make work more comfortable in any environment. Try the shortcut: Ctrl + Search (  ) + H to activate it.
+      
+
+
+
+
+
+
+
+
+
+
+    
+      Try high contrast mode
+      
+        
+      
+    
+
+
+  
+            
+
+            
+
+  
+
+
+
+
+    
+
+
+
+    
+        
+      
+    
+
+          Audio and captions
+
+
+
+      Building for users who are deaf or hard of hearing
+      Chromebooks include features that make technology more accessible for people who are deaf or hard of hearing.
+    
+
+    
+        
+
+      
+        
+                
+        
+        
+        
+      
+
+
+        
+
+      
+
+
+
+    
+
+
+
+
+  
+    
+
+
+    
+  
+
+
+
+
+
+
+
+
+    Customize caption styles
+
+
+      
+        Easily adjust caption size, color and typeface for a customized closed caption experience. Select “Captions” in your Chromebook’s accessibility settings to update these features.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Mono audio
+
+
+      
+        People who are hard of hearing can select Mono Audio to play the same sound through both speakers so they don’t miss content in stereo sound. Select “Mono Audio” in your Chromebook’s accessibility settings to use this feature.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+        
+      
+    
+
+          Spoken feedback
+
+
+
+      Spoken feedback tools for people with low-vision or dyslexia
+      Spoken feedback tools on Chromebook help people, especially those with low-vision or dyslexia, get the most out of technology.
+    
+
+    
+        
+
+      
+        
+                
+        
+        
+        
+      
+
+
+
+
+
+  
+    Open in a new window
+    
+      
+    
+  
+        
+
+      
+
+
+
+        
+          How to use Select-to-Speak on your Chromebook
+          Length of the video: 5 minutes 15 seconds
+
+                
+
+
+
+    Open in a new window      
+      
+    
+
+    
+
+        
+    
+
+
+
+
+  
+    
+
+
+    
+  
+
+
+
+
+
+
+
+
+    ChromeVox
+
+
+      
+        ChromeVox, Chromebook’s built-in screen reader, helps people who are blind or low-vision by making the computer speak every time they move their focus by using their mouse or keyboard. Chromebook can also be used with a refreshable braille display.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Select-to-speak
+
+
+      
+        With select-to-speak, choose specific lines or sections of the screen to be read aloud. While Chrome OS reads the selected words aloud, each word is highlighted visually, which can be especially useful for people with dyslexia, new language learners, and more.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Text-to-speech settings
+
+
+      
+        Text-to-speech settings allow people to customize voice, speech rate, pitch, volume and more for optimal accessibility.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+        
+      
+    
+
+          Motor
+
+
+
+      Providing more ways to enter information
+      People with motor disabilities and dexterity impairments can use Chromebooks thanks to features designed with this community in mind.
+    
+
+    
+        
+
+      
+        
+                
+        
+        
+        
+      
+
+
+
+
+
+  
+    Open in a new window
+    
+      
+    
+  
+        
+
+      
+
+
+
+        
+          Chromebook Mobility-Assistive Features and Functionality
+          Lenght of video: 7 minutes 30 seconds
+
+                
+
+
+
+    Open in a new window      
+      
+    
+
+    
+
+        
+    
+
+
+
+
+  
+    
+
+
+    
+  
+
+
+
+
+
+
+
+
+    On-screen keyboard
+
+
+      
+        People can input information on a Chromebook in a variety of ways beyond a traditional keyboard: via an on-screen keyboard, using a mouse, connected joystick, touchscreen, or even handwriting.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Touchpad settings
+
+
+      
+        To make clicking more accessible, people with dexterity impairments can customize touchpad settings to enable automatic clicks, tap dragging or tap-to-click functionality.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Physical keyboard settings
+
+
+      
+        Customize how Chromebook's physical keyboard responds to touch.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sticky keys
+
+
+      
+        Sticky Keys can help people with dexterity impairments more easily use keyboard shortcuts. This feature makes it possible  to press only one key at a time in sequence to activate a keyboard shortcut, instead of having to hold down multiple keys at once.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+    Type using your voice with Dictation
+
+
+      
+        The Dictation feature on Chromebook lets people enter text into any field using their voice. Dictation can be especially helpful for those with motor disabilities or dexterity impairments, or anyone who wants to take a break from typing. In your Chromebook’s accessibility settings under “Keyboard and text input,” select “Enable Dictation (speak to type).”
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+            
+
+  
+
+
+
+
+
+
+
+
+    How to turn onChromebook accessibility features
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Step 1
+
+
+    Visit your Settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        
+          
+        
+      
+
+
+
+
+
+
+
+
+
+    Step 2
+
+
+    Navigate to the bottom of the menu and select “Advanced”
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        
+          
+        
+      
+
+
+
+
+
+
+
+
+
+    Step 3
+
+
+    In the “Accessibility” section, select “Manage accessibility features” to choose the features you want to enable
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        
+          
+        
+      
+
+
+        
+
+
+
+    Learn more details on how to enable accessibility settings at the Help Center      
+      
+    
+
+    
+
+
+
+
+
+
+
+    Making the digital world more accessible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+      
+          
+            
+                    
+
+            
+          
+
+
+
+
+
+
+    Google for Education
+
+
+      
+        Students in the same classroom learn in different ways. That’s why Google for Education products, including Chromebooks and G Suite for Education, are built with accessibility in mind, to help every student achieve their full potential.
+      
+
+
+
+
+
+
+        
+
+
+
+    Learn more about Google for Education’s accessibility initiatives      
+      
+    
+
+    
+
+
+
+
+
+      
+      
+          
+            
+                    
+
+            
+          
+
+
+
+
+
+
+    Android Accessibility
+
+
+      
+        Learn about more accessibility tools on Android.
+      
+
+
+
+
+
+
+        
+
+
+
+    Learn more about Android accessibility      
+      
+    
+
+    
+
+
+
+
+
+      
+      
+          
+            
+                    
+
+            
+          
+
+
+
+
+
+
+    Meet the team
+
+
+      
+        David Tseng, Technical Lead for Chrome OS accessibility services, shares how he’s dedicated his career to using technology to break down barriers for people with disabilities.
+      
+
+
+
+
+
+
+        
+
+
+
+    Learn more about David’s work      
+      
+    
+
+    
+
+
+
+
+
+      
+  
+      
+    
+
+
+  
+      
+        
+          Shop
+        
+              
+                
+                  Laptop
+                
+              
+              
+                
+                  Convertible
+                
+              
+              
+                
+                  Tablet
+                
+              
+              
+                
+                  Special perks
+                
+              
+        
+      
+      
+        
+          Dev & partners
+        
+              
+                
+                  Chromium OS
+                
+              
+              
+                
+                  Chrome Experiments
+                
+              
+              
+                
+                  Google Code
+                
+              
+        
+      
+      
+        
+          Education/Business
+        
+              
+                
+                  Chromebooks for education
+                
+              
+              
+                
+                  Chromebooks for Business
+                
+              
+        
+      
+      
+        
+          The latest
+        
+              
+                
+                    
+      
+    
+                  Blog
+                
+              
+              
+                
+                    
+      
+    
+                  Youtube channel
+                
+              
+        
+      
+  
+
+  
+    
+        
+          Privacy
+        
+        
+          Accessibility
+        
+        
+          Terms
+        
+        
+          Help center
+        
+        
+          Forum
+        
+    
+    
+      Switch Country
+      
+        
+          Danmark - Dansk
+        
+        
+          Deutschland - Deutsch
+        
+        
+          Australia - English
+        
+        
+          Canada - English
+        
+        
+          United Kingdom - English
+        
+        
+          United States - English
+        
+        
+          España - Español
+        
+        
+          Estados Unidos - Español
+        
+        
+          Suomi - Suomi
+        
+        
+          Canada - Français
+        
+        
+          France - Français
+        
+        
+          Italia - Italiano
+        
+        
+          日本 - 日本語
+        
+        
+          Norge - Norsk Bokmål
+        
+        
+          Nederland - Nederlands
+        
+        
+          Sverige - Svenska
